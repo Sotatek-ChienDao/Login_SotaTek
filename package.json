@@ -1,0 +1,28 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000L\u0000o\u0000g\u0000i\u0000n\u0000_\u0000S\u0000o\u0000t\u0000a\u0000T\u0000e\u0000k\u0000\r\u0000 \u0000#\u0000 \u0000L\u0000o\u0000g\u0000i\u0000n\u0000_\u0000S\u0000o\u0000t\u0000a\u0000T\u0000e\u0000k\u0000\r\u0000 \u0000#\u0000 \u0000L\u0000o\u0000g\u0000i\u0000n\u0000_\u0000S\u0000o\u0000t\u0000a\u0000T\u0000e\u0000k\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sotatek-ChienDao/Login_SotaTek.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sotatek-ChienDao/Login_SotaTek/issues"
+  },
+  "homepage": "https://github.com/Sotatek-ChienDao/Login_SotaTek#readme",
+  "dependencies": {
+    "cookie-parse": "^0.4.0",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "passport": "^0.6.0",
+    "passport-facebook": "^3.0.0"
+  }
+}
